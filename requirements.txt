@@ -1,1 +1,14 @@
+Brotli==1.0.9
+certifi==2022.12.7
+charset-normalizer==2.1.1
+docopt==0.6.2
+idna==3.4
+mutagen==1.46.0
+pycryptodomex==3.16.0
 python-dotenv==0.21.0
+requests==2.28.1
+urllib3==1.26.14
+websockets==10.4
+webvtt-py==0.4.6
+youtube-transcript-api==0.5.0
+yt-dlp==2023.1.6
